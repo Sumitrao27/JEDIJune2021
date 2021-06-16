@@ -1,12 +1,13 @@
 #include<stdio.h>
 
+
+void world(){
+ printf("Hello world and the world is awesome");
+}
+
 int main(){
-	helloWorld();
+	world();
 	return 0;
 
 }
-void hellowWorld(){
-  
-printf("hello world")
-printf("awesome world")
-}
+
