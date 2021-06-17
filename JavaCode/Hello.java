@@ -2,7 +2,11 @@
 package Learn;
 
 class Hello {
-    public static void main(String[] args) {
+   public helloWorld(){
+   
         System.out.println("Hello, World!"); 
-    }
+   }
+       	public static void main(String[] args) {
+         helloWorld();
+       	}
 }
